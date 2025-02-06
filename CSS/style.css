@@ -154,19 +154,19 @@ body {
 }
 
 .trend1 {
-    background-image: url("/image/trend1.jpg");
+    background-image: url("../image/trend1.jpg");
 }
 
 .trend2 {
-    background-image: url("/image/trend2.jpg");
+    background-image: url("../image/trend2.jpg");
 }
 
 .trend3 {
-    background-image: url("/image/trend3.jpg");
+    background-image: url("../image/trend3.jpg");
 }
 
 .trend4 {
-    background-image: url("/image/trend4.jpg");
+    background-image: url("../image/trend4.jpg");
 }
 
 .trend__content {
