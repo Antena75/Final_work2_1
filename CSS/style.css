@@ -131,7 +131,7 @@ body {
 }
 
 .trend {
-    height: 287px;
+    min-height: 287px;
     display: flex;
     align-items: flex-end;
     padding: 16px 22px;
@@ -154,7 +154,7 @@ body {
 }
 
 .trend1 {
-    background-image: url("images/trend1.jpg");
+    background-image: url("/Final_work2_1-main/image/trend1.jpg");
 }
 
 .trend2 {
@@ -850,7 +850,7 @@ p {
     }
 
     .trend {
-        height: 213px;
+        min-height: 213px;
         padding: 17px 19px 16px 21px;
         background-position: center bottom;
     }
@@ -1055,7 +1055,7 @@ p {
     }
 
     .trend {
-        height: 199px;
+        min-height: 199px;
         padding: 15px 16px 16px;
         background-position: center bottom;
     }
